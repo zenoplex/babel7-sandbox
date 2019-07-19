@@ -4,10 +4,10 @@
   "description": "Testing out babel7 with core-js3",
   "author": "Gen Ichino",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/zenoplex/babel7-sandbox",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:zenoplex/babel7-sandbox.git"
   },
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server",
